@@ -168,6 +168,3 @@ Save & Upload  → store locally and upload to EI
 | **Backend (Rust)**    | Relay data, forward commands, broadcast to GUI | TCP 8081, 8082, 8083 |
 | **Frontend (Python)** | Plot, save CSV/JSON, upload to Edge Impulse    | TCP, HTTP            |
 
----
-
-Jika kamu mau, saya bisa buatkan versi diagram-only, versi ultra-minimal, atau versi siap langsung ditempel ke GitHub.
