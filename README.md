@@ -3,7 +3,7 @@
 Arduino UNO R4 WiFi + Rust Backend + Python Frontend
 
 ▶ Full System Demo (YouTube):
-https://youtube.com/your-demo-link-here
+[https://youtube.com/your-demo-link-here](https://youtu.be/Ke1Hn7arJs4?si=IDA7lgkq9jmnrOo8)
 
 This project implements a complete E-Nose data pipeline consisting of an Arduino firmware (sensor acquisition + FSM), a Rust backend (data relay + command gateway), and a Python frontend (real-time GUI + CSV export + Edge Impulse upload).
 
