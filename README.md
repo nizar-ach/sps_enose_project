@@ -96,11 +96,7 @@ STOP_SAMPLING
 Backend listens on `0.0.0.0:8082`
 Then forwards command to Arduino via Serial port (e.g., `COM8`).
 
-### 4. Optional InfluxDB Logging
-
-Backend can write each frame using InfluxDB line protocol.
-
-### 5. Minimal HTTP API
+### 4. Minimal HTTP API
 
 * `/` health check
 * `/sensor_data` full buffer dump
